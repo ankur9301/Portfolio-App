@@ -96,7 +96,11 @@ Updated the above with his tab bar controller.
 
 
 
-https://github.com/ankur9301/Portfolio-App/assets/114321826/75bbeccb-df8d-4b4d-9051-560f28b45999
+
+
+
+
+https://github.com/ankur9301/Portfolio-App/assets/114321826/b1692826-08a9-4301-b8ac-efd48f71cec5
 
 
 
